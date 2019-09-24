@@ -1,0 +1,2 @@
+fichier test_b03
+XXXXXXXXXXXXXXX3
